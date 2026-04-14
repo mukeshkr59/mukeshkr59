@@ -13,6 +13,14 @@ Hi, I’m Mukesh Kumar Vishwakarma a passionate developer who enjoys building cl
 ![](https://nirzak-streak-stats.vercel.app/?user=mukeshkr59&theme=shadow_green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkr59&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 📊 GitHub Stats:
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mukeshkr59&theme=shadow_green&hide_border=true)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=mukeshkr59&theme=shadow_green&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkr59&theme=shadow_green&hide_border=true&layout=compact)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
