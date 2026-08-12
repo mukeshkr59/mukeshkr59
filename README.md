@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi, I’m Mukesh Kumar Vishwakarma a passionate developer who enjoys building clean, efficient, and practical solutions. I like solving complex problems, learning new technologies, and continuously improving my coding skills.<br><br>I’m focused on writing maintainable code and growing as a full-stack developer and backend developer through real-world projects and consistent practice.
+# 👋 Hi, I'm Mukesh Kumar Vishwakarma
+
+**Software Developer | Backend Engineer | Problem Solver**
+
+I build **scalable, efficient, and maintainable applications**, with a strong focus on backend engineering, APIs, databases, and system design.
+
+My toolkit includes **Node.js, Express.js, React, Python, C++, MongoDB, MySQL, Neo4j, Redis, Docker, and AWS**.
+
+I enjoy solving challenging problems, understanding how systems work under the hood, and continuously improving through **DSA, system design, and real-world projects**.
+
+🚀 *Build. Learn. Optimize. Repeat.*
 
 
 ## 🌐 Socials:
