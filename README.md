@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Mukesh Kumar Vishwakarma
 
 **Software Developer | Backend Engineer | Problem Solver**
