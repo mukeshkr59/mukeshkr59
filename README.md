@@ -136,7 +136,7 @@ A full-stack food delivery platform covering food discovery, user authentication
 | **Performance** | Designed with caching and multi-server scaling considerations |
 | **Security** | Authenticated user and order workflows |
 | **Impact** | End-to-end food ordering flow with modular backend services |
-| **Repository** | [GitHub](https://github.com/mukesh-kumar-vishwakarma) |
+| **Repository** | [GitHub](https://github.com/mukeshkr59) |
 
 **Engineering focus:** RESTful API design, MongoDB data modeling, route separation, deployment architecture and future Redis caching.
 
@@ -277,11 +277,11 @@ Worked on backend and data-analytics workflows for Ethereum wallet profiling, tr
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mukesh-kumar-vishwakarma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="170"/>
-<img src="https://streak-stats.demolab.com?user=mukesh-kumar-vishwakarma&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF" height="170"/>
+<img src="https://streak-stats.demolab.com?user=mukeshkr59&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF" height="170"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-kumar-vishwakarma&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkr59&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="170"/>
 
 </div>
 
@@ -291,7 +291,7 @@ Worked on backend and data-analytics workflows for Ethereum wallet profiling, tr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mukesh-kumar-vishwakarma&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mukeshkr59&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
@@ -301,7 +301,7 @@ Worked on backend and data-analytics workflows for Ethereum wallet profiling, tr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukesh-kumar-vishwakarma&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshkr59&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -311,7 +311,7 @@ Worked on backend and data-analytics workflows for Ethereum wallet profiling, tr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mukesh-kumar-vishwakarma/mukesh-kumar-vishwakarma/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/mukeshkr59/mukeshkr59/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
 
