@@ -277,7 +277,7 @@ Worked on backend and data-analytics workflows for Ethereum wallet profiling, tr
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mukeshkr59&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="170"/>
-<img src="https://streak-stats.demolab.com?user=mukeshkr59&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF" height="170"/>
+<img src="https://streak-stats.demolab.com?username=mukeshkr59&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF" height="170"/>
 
 <br/>
 
