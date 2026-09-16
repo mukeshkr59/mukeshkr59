@@ -1,94 +1,382 @@
-# 👋 Hi, I'm Mukesh Kumar Vishwakarma
+<div align="center">
 
-**Software Developer | Backend Engineer | Problem Solver**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukesh%20Kumar%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-I build **scalable, efficient, and maintainable applications**, with a strong focus on backend engineering, APIs, databases, and system design.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Backend+%26+Full-Stack;Node.js+%7C+React+%7C+MongoDB+%7C+AWS;Building+Scalable%2C+Secure+%26+Production-Ready+Systems;Aerospace+Engineering+%E2%86%92+Software+Engineering" alt="Typing SVG" />
+</a>
 
-My toolkit includes **Node.js, Express.js, React, Python, C++, MongoDB, MySQL, Neo4j, Redis, Docker, and AWS**.
+<br/>
 
-I enjoy solving challenging problems, understanding how systems work under the hood, and continuously improving through **DSA, system design, and real-world projects**.
+<img src="https://img.shields.io/badge/B.Tech-Aerospace%20Engineering-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/IIT%20Kanpur-2025-4338CA?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-🚀 *Build. Learn. Optimize. Repeat.*
+<br/><br/>
 
+<a href="https://github.com/mukesh-kumar-vishwakarma">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mukesh-kumar-vishwakarma/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mukeshkumarvishwakarma@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/mukesh-kumar-vishwakarma">
+  <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mukesh-kumar-vishwakarma/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukeshkv.iitk@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://mukeshkv.vercel.app)
+<br/><br/>
 
-# 💻 Tech Stack:
+<img src="https://komarev.com/ghpvc/?username=mukesh-kumar-vishwakarma&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/mukesh-kumar-vishwakarma?style=flat-square&color=4F46E5&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/mukesh-kumar-vishwakarma?style=flat-square&color=6D28D9&label=STARS"/>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=databricks&logoColor=white)
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-
-![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Context API](https://img.shields.io/badge/Context--API-000000?style=for-the-badge&logo=react)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)
-
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mukeshkr59&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mukeshkr59&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkr59&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mukeshkr59&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+Software engineer focused on **backend engineering, full-stack development, API design, databases, and scalable web systems**.
+
+I transitioned from Aerospace Engineering at **IIT Kanpur** into software engineering through hands-on development, internships, system-design learning, and production-oriented projects.
+
+My engineering interests include:
+
+- Designing reliable and scalable backend services
+- REST APIs, authentication, real-time communication and distributed systems
+- Database design, query optimization and data-intensive applications
+- React-based full-stack product development
+- AWS cloud infrastructure and deployment workflows
+- AI-assisted software engineering and practical AI/ML systems
+- Product engineering with emphasis on performance, security and maintainability
+
+### Open To
+
+**SDE-1 · Backend Engineer · Full-Stack Developer · Node.js Developer · Software Developer**
+
+Open to opportunities in **India and relocation-based roles**.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,java" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,graphql" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,ec2,s3,lambda,docker,git,github,postman,vercel" />
+</p>
+
+Additional tooling: **Airflow · Redshift · Timestream · RDS · Neo4j · JWT · OAuth2 · Mongoose · Socket.io · Cloudinary · npm · ESLint · CI/CD**
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| AI-Assisted Development | Working Knowledge | Exploring practical AI integration into software-development workflows |
+| LLM Applications | Learning | Studying LLM fundamentals, inference workflows and application architecture |
+| AI Code Assistants | Building | Designing a MERN-based GitHub code assistant with repository indexing and conversational workflows |
+| Data Engineering for AI | Working Knowledge | ETL pipelines, large-scale data processing, APIs and analytical databases |
+| Graph Analytics | Working Knowledge | Neo4j-based relationship and wallet-network analysis |
+| Machine Learning | Learning | Building foundational understanding for practical engineering applications |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>Quick-Chat — Real-Time MERN Messaging Platform</strong></summary>
+
+A full-stack real-time messaging application designed around responsive communication, authentication and scalable WebSocket-based interactions.
+
+| Category | Details |
+|---|---|
+| **Stack** | React, Vite, Node.js, Express, Socket.io, MongoDB, Mongoose, JWT, bcrypt, Cloudinary, Tailwind CSS |
+| **Scale** | Designed and tested around 300+ concurrent users |
+| **Performance** | Sub-200ms target for real-time message delivery; reduced unnecessary React re-renders |
+| **Security** | JWT authentication, password hashing with bcrypt, protected API routes |
+| **Impact** | Online/offline presence, typing indicators, read receipts, notifications, search and media/file sharing |
+| **Repository** | [GitHub](https://github.com/mukesh-kumar-vishwakarma) |
+
+**Engineering focus:** real-time event handling, authentication, API architecture, state management, media handling and production deployment.
+
+</details>
+
+<details>
+<summary><strong>Food Delivery — MERN Full-Stack Application</strong></summary>
+
+A full-stack food delivery platform covering food discovery, user authentication, cart management and order workflows.
+
+| Category | Details |
+|---|---|
+| **Stack** | React, Node.js, Express, MongoDB, Mongoose, REST APIs |
+| **Scale** | Modular REST API structure for food, user, cart and order domains |
+| **Performance** | Designed with caching and multi-server scaling considerations |
+| **Security** | Authenticated user and order workflows |
+| **Impact** | End-to-end food ordering flow with modular backend services |
+| **Repository** | [GitHub](https://github.com/mukesh-kumar-vishwakarma) |
+
+**Engineering focus:** RESTful API design, MongoDB data modeling, route separation, deployment architecture and future Redis caching.
+
+</details>
+
+<details>
+<summary><strong>Blogify — Role-Based Blogging Platform</strong></summary>
+
+A server-rendered blogging platform implementing authentication, authorization and role-based access using a structured MVC backend.
+
+| Category | Details |
+|---|---|
+| **Stack** | Node.js, Express, MongoDB Atlas, Mongoose, EJS, JWT, bcrypt |
+| **Scale** | MVC architecture with USER and ADMIN roles |
+| **Performance** | Database indexing and aggregation improvements targeting lower query latency |
+| **Security** | Cookie-based JWT authentication and bcrypt password hashing |
+| **Impact** | Role-based content management with protected administrative workflows |
+| **Repository** | [GitHub](https://github.com/mukesh-kumar-vishwakarma) |
+
+**Engineering focus:** MVC architecture, database optimization, authentication, authorization and AWS Elastic Beanstalk deployment.
+
+</details>
+
+<details>
+<summary><strong>URL Shortener — Secure Redirect Service</strong></summary>
+
+A compact URL-shortening service focused on efficient redirects, authentication and clean MVC separation.
+
+| Category | Details |
+|---|---|
+| **Stack** | Node.js, Express, MongoDB, Mongoose, NanoID, JWT |
+| **Scale** | Designed as a lightweight redirect-oriented backend |
+| **Performance** | Optimized redirect path and database access |
+| **Security** | Authenticated user workflows and protected endpoints |
+| **Impact** | Short URL generation with efficient redirect handling |
+| **Repository** | [GitHub](https://github.com/mukesh-kumar-vishwakarma) |
+
+**Engineering focus:** identifier generation, API design, authentication and low-overhead redirect processing.
+
+</details>
+
+---
+
+## Experience
+
+### Backend / Data Analytics Intern — CryptoOwl
+
+**Blockchain Analytics & Crypto Wallet Intelligence**
+
+Worked on backend and data-analytics workflows for Ethereum wallet profiling, transaction analysis and crypto-wallet intelligence.
+
+**Scope of Work**
+
+- Worked with blockchain APIs and large-scale wallet transaction data.
+- Built data pipelines involving **AWS Timestream, RDS and Redshift**.
+- Developed SQL and Python workflows for transaction, swap and wallet KPIs.
+- Created **Airflow DAGs** for ETL and scheduled data processing.
+- Used EC2 cronjobs to refresh analytical data and synchronize datasets.
+- Retrieved S3 timestamps and exported processed DataFrames to S3.
+- Developed REST APIs using **API Gateway and AWS Lambda**.
+- Used **Neo4j** for graph-based wallet relationship and network analysis.
+- Worked on wallet personas including **sharks, safe buyers and risk traders**.
+- Contributed to dashboards connecting data/API layers with frontend transaction-history views.
+
+**Skills:** Python · SQL · AWS · Redshift · RDS · Timestream · S3 · EC2 · Lambda · API Gateway · Airflow · Neo4j · Data Analytics · ETL · REST APIs
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| **IIT Kanpur — B.Tech** | Aerospace Engineering, 2025 |
+| **JEE Advanced 2020** | AIR 10171 |
+| **JEE Main 2020** | AIR 3237 |
+| **UPSEE** | State Rank 60 |
+| **Udghosh'21** | Men's Football — Gold |
+| **Udghosh'22** | IIT Kanpur Football Captain |
+| **Inter IIT Sports Meet** | 56th Contingent; 5th Overall |
+| **Inferno 2023** | Football Runner-up; High Jump 2nd Runner-up |
+| **Hall-12 Volleyball** | Gold |
+| **Kedar Kantha** | High-altitude trek reaching approximately 12,500 ft |
+| **Dakshana** | Two-year program; selected among top-performing JNV students |
+| **Foundation for Excellence** | Scholarship recipient |
+
+</div>
+
+---
+
+## Certifications
+
+### AWS
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Backend%20Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+### Oracle
+
+<img src="https://img.shields.io/badge/Oracle-Technology-7C3AED?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+### NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Certified%20Learning-4F46E5?style=for-the-badge&logo=nptel&logoColor=white"/>
+
+### Cisco
+
+<img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-312E81?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Coding-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mukesh-kumar-vishwakarma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="170"/>
+<img src="https://streak-stats.demolab.com?user=mukesh-kumar-vishwakarma&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-kumar-vishwakarma&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="170"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mukesh-kumar-vishwakarma&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukesh-kumar-vishwakarma&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mukesh-kumar-vishwakarma/mukesh-kumar-vishwakarma/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - System Design
+  - Backend Architecture
+  - Distributed Systems
+  - LLM Application Development
+  - Advanced DSA
+
+Building:
+  - AI-assisted GitHub Code Assistant
+  - Scalable MERN applications
+  - Production-ready backend APIs
+
+Exploring:
+  - Vector Search
+  - RAG architectures
+  - AI developer tooling
+  - Database optimization
+  - Cloud-native systems
+
+Open To:
+  - SDE-1
+  - Backend Engineering
+  - Full-Stack Development
+  - Node.js Engineering
+  - Software Engineering Opportunities
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:mukeshkumarvishwakarma@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mukesh-kumar-vishwakarma/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mukesh-kumar-vishwakarma">
+<img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mukesh-kumar-vishwakarma">
+<img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Engineering reliable systems, learning continuously, and turning ideas into production-ready software.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
