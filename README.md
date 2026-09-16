@@ -1,373 +1,468 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukesh%20Kumar%20Vishwakarma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Backend+%26+Full-Stack;Node.js+%7C+React+%7C+MongoDB+%7C+AWS;Building+Scalable%2C+Secure+%26+Production-Ready+Systems;Aerospace+Engineering+%E2%86%92+Software+Engineering" alt="Typing SVG" />
+<a href="https://github.com/mukeshkr59">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=220&section=header&text=Mukesh%20Kumar%20Vishwakarma&fontSize=38&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Backend+Engineering+%7C+Node.js+%7C+REST+APIs;MERN+Stack+%7C+Database+Design+%7C+Cloud;Building+Scalable+%26+Production-Oriented+Systems;Exploring+AI%2FML+%26+Modern+Software+Engineering" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Aerospace%20Engineering-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/IIT%20Kanpur-2025-4338CA?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="https://www.iitk.ac.in/">
+<img src="https://img.shields.io/badge/IIT%20Kanpur-B.Tech%20Aerospace%20Engineering-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+<a href="https://github.com/mukeshkr59">
+<img src="https://img.shields.io/badge/Software%20Engineer-Backend%20%7C%20Full%20Stack-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.google.com/maps/search/?api=1&query=New+Delhi%2C+India">
+<img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</a>
 
 <br/><br/>
 
 <a href="https://github.com/mukeshkr59">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-mukeshkr59-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/mukesh-kumar-vishwakarma/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:mukeshkv.iitk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/mukeshkr59">
-  <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:mukeshkr59@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mukeshkr59&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/mukeshkr59?style=flat-square&color=4F46E5&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/mukeshkr59?style=flat-square&color=6D28D9&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=mukeshkr59&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<a href="https://github.com/mukeshkr59?tab=followers">
+<img src="https://img.shields.io/github/followers/mukeshkr59?label=FOLLOWERS&style=for-the-badge&color=6D28D9"/>
+</a>
+<a href="https://github.com/mukeshkr59?tab=repositories">
+<img src="https://img.shields.io/github/stars/mukeshkr59?label=STARS&style=for-the-badge&color=8B5CF6"/>
+</a>
 
 </div>
 
 ---
 
-## About
+# About
 
-Software engineer focused on **backend engineering, full-stack development, API design, databases, and scalable web systems**.
+I am a **Software Engineer focused on backend and full-stack development**, with a B.Tech in Aerospace Engineering from **IIT Kanpur**.
 
-I transitioned from Aerospace Engineering at **IIT Kanpur** into software engineering through hands-on development, internships, system-design learning, and production-oriented projects.
+My current focus is building reliable and scalable software using **Node.js, Express, React, MongoDB, SQL, REST APIs, AWS and modern development practices**.
 
-My engineering interests include:
+I enjoy working across the complete engineering lifecycle — from **API design and database architecture to authentication, performance optimization, deployment and testing**.
 
-- Designing reliable and scalable backend services
-- REST APIs, authentication, real-time communication and distributed systems
-- Database design, query optimization and data-intensive applications
-- React-based full-stack product development
-- AWS cloud infrastructure and deployment workflows
-- AI-assisted software engineering and practical AI/ML systems
-- Product engineering with emphasis on performance, security and maintainability
+I also have practical exposure to **data engineering, cloud services, ETL pipelines, blockchain analytics and graph-based analysis** through my CryptoOwl experience.
+
+Currently exploring **AI/ML engineering, LLM applications, vector databases and AI-assisted developer tools**.
 
 ### Open To
 
-**SDE-1 · Backend Engineer · Full-Stack Developer · Node.js Developer · Software Developer**
-
-Open to opportunities in **India and relocation-based roles**.
+**SDE-1 • Backend Engineer • Full Stack Developer • Node.js Developer • Software Engineer • AI/ML Engineering Opportunities**
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,java" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,java,html,css" />
+
+</div>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,axios" />
+
+</div>
 
 ### Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,graphql" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,postgres" />
+
+</div>
 
 ### Cloud, DevOps & Tooling
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,ec2,s3,lambda,docker,git,github,postman,vercel" />
-</p>
+<div align="center">
 
-Additional tooling: **Airflow · Redshift · Timestream · RDS · Neo4j · JWT · OAuth2 · Mongoose · Socket.io · Cloudinary · npm · ESLint · CI/CD**
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman,linux,vercel" />
 
----
+</div>
 
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| AI-Assisted Development | Working Knowledge | Exploring practical AI integration into software-development workflows |
-| LLM Applications | Learning | Studying LLM fundamentals, inference workflows and application architecture |
-| AI Code Assistants | Building | Designing a MERN-based GitHub code assistant with repository indexing and conversational workflows |
-| Data Engineering for AI | Working Knowledge | ETL pipelines, large-scale data processing, APIs and analytical databases |
-| Graph Analytics | Working Knowledge | Neo4j-based relationship and wallet-network analysis |
-| Machine Learning | Learning | Building foundational understanding for practical engineering applications |
-
----
-
-## Featured Projects
-
-<details>
-<summary><strong>Quick-Chat — Real-Time MERN Messaging Platform</strong></summary>
-
-A full-stack real-time messaging application designed around responsive communication, authentication and scalable WebSocket-based interactions.
-
-| Category | Details |
-|---|---|
-| **Stack** | React, Vite, Node.js, Express, Socket.io, MongoDB, Mongoose, JWT, bcrypt, Cloudinary, Tailwind CSS |
-| **Scale** | Designed and tested around 300+ concurrent users |
-| **Performance** | Sub-200ms target for real-time message delivery; reduced unnecessary React re-renders |
-| **Security** | JWT authentication, password hashing with bcrypt, protected API routes |
-| **Impact** | Online/offline presence, typing indicators, read receipts, notifications, search and media/file sharing |
-| **Repository** | [GitHub](https://github.com/mukeshkr59) |
-
-**Engineering focus:** real-time event handling, authentication, API architecture, state management, media handling and production deployment.
-
-</details>
-
-<details>
-<summary><strong>Food Delivery — MERN Full-Stack Application</strong></summary>
-
-A full-stack food delivery platform covering food discovery, user authentication, cart management and order workflows.
-
-| Category | Details |
-|---|---|
-| **Stack** | React, Node.js, Express, MongoDB, Mongoose, REST APIs |
-| **Scale** | Modular REST API structure for food, user, cart and order domains |
-| **Performance** | Designed with caching and multi-server scaling considerations |
-| **Security** | Authenticated user and order workflows |
-| **Impact** | End-to-end food ordering flow with modular backend services |
-| **Repository** | [GitHub](https://github.com/mukeshkr59) |
-
-**Engineering focus:** RESTful API design, MongoDB data modeling, route separation, deployment architecture and future Redis caching.
-
-</details>
-
-<details>
-<summary><strong>Blogify — Role-Based Blogging Platform</strong></summary>
-
-A server-rendered blogging platform implementing authentication, authorization and role-based access using a structured MVC backend.
-
-| Category | Details |
-|---|---|
-| **Stack** | Node.js, Express, MongoDB Atlas, Mongoose, EJS, JWT, bcrypt |
-| **Scale** | MVC architecture with USER and ADMIN roles |
-| **Performance** | Database indexing and aggregation improvements targeting lower query latency |
-| **Security** | Cookie-based JWT authentication and bcrypt password hashing |
-| **Impact** | Role-based content management with protected administrative workflows |
-| **Repository** | [GitHub](https://github.com/mukeshkr59) |
-
-**Engineering focus:** MVC architecture, database optimization, authentication, authorization and AWS Elastic Beanstalk deployment.
-
-</details>
-
-<details>
-<summary><strong>URL Shortener — Secure Redirect Service</strong></summary>
-
-A compact URL-shortening service focused on efficient redirects, authentication and clean MVC separation.
-
-| Category | Details |
-|---|---|
-| **Stack** | Node.js, Express, MongoDB, Mongoose, NanoID, JWT |
-| **Scale** | Designed as a lightweight redirect-oriented backend |
-| **Performance** | Optimized redirect path and database access |
-| **Security** | Authenticated user workflows and protected endpoints |
-| **Impact** | Short URL generation with efficient redirect handling |
-| **Repository** | [GitHub](https://github.com/mukeshkr59) |
-
-**Engineering focus:** identifier generation, API design, authentication and low-overhead redirect processing.
-
-</details>
-
----
-
-## Experience
-
-### Backend / Data Analytics Intern — CryptoOwl
-
-**Blockchain Analytics & Crypto Wallet Intelligence**
-
-Worked on backend and data-analytics workflows for Ethereum wallet profiling, transaction analysis and crypto-wallet intelligence.
-
-**Scope of Work**
-
-- Worked with blockchain APIs and large-scale wallet transaction data.
-- Built data pipelines involving **AWS Timestream, RDS and Redshift**.
-- Developed SQL and Python workflows for transaction, swap and wallet KPIs.
-- Created **Airflow DAGs** for ETL and scheduled data processing.
-- Used EC2 cronjobs to refresh analytical data and synchronize datasets.
-- Retrieved S3 timestamps and exported processed DataFrames to S3.
-- Developed REST APIs using **API Gateway and AWS Lambda**.
-- Used **Neo4j** for graph-based wallet relationship and network analysis.
-- Worked on wallet personas including **sharks, safe buyers and risk traders**.
-- Contributed to dashboards connecting data/API layers with frontend transaction-history views.
-
-**Skills:** Python · SQL · AWS · Redshift · RDS · Timestream · S3 · EC2 · Lambda · API Gateway · Airflow · Neo4j · Data Analytics · ETL · REST APIs
-
----
-
-## Achievements
+### Engineering Skills
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **IIT Kanpur — B.Tech** | Aerospace Engineering, 2025 |
-| **JEE Advanced 2020** | AIR 10171 |
-| **JEE Main 2020** | AIR 3237 |
-| **UPSEE** | State Rank 60 |
-| **Udghosh'21** | Men's Football — Gold |
-| **Udghosh'22** | IIT Kanpur Football Captain |
-| **Inter IIT Sports Meet** | 56th Contingent; 5th Overall |
-| **Inferno 2023** | Football Runner-up; High Jump 2nd Runner-up |
-| **Hall-12 Volleyball** | Gold |
-| **Kedar Kantha** | High-altitude trek reaching approximately 12,500 ft |
-| **Dakshana** | Two-year program; selected among top-performing JNV students |
-| **Foundation for Excellence** | Scholarship recipient |
+<img src="https://img.shields.io/badge/REST%20APIs-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microservices-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT%20%2F%20OAuth-A78BFA?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSockets-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20Optimization-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Database%20Optimization-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Unit%20Testing-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/CI%2FCD-A78BFA?style=flat-square"/>
 
 </div>
 
 ---
 
-## Certifications
+# AI / ML Expertise
 
-### AWS
+<div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Backend%20Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+|        Domain        |  Proficiency | Details                                                      |
+| :------------------: | :----------: | :----------------------------------------------------------- |
+|  **AI Engineering**  | 🟣 Exploring | Building foundations in AI-powered software systems          |
+| **LLM Applications** | 🟣 Exploring | Exploring LLM APIs, AI developer tools and RAG architectures |
+|   **Vector Search**  |  🟣 Learning | Exploring MongoDB Atlas Vector Search and pgvector           |
+| **Data Engineering** | 🟣 Practical | ETL pipelines, Airflow, AWS data services and analytics      |
+|  **Graph Analytics** | 🟣 Practical | Neo4j-based relationship and wallet network analysis         |
+| **Machine Learning** |  🟣 Learning | Strengthening fundamentals and practical implementation      |
 
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Technology-7C3AED?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certified%20Learning-4F46E5?style=for-the-badge&logo=nptel&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-312E81?style=for-the-badge&logo=cisco&logoColor=white"/>
+</div>
 
 ---
 
-## Coding Profiles
+# Featured Projects
+
+<details>
+<summary><b>💬 Quick-Chat — Real-Time MERN Communication Platform</b></summary>
+
+<br/>
+
+A real-time communication platform designed around **low-latency messaging, authentication, presence tracking and media sharing**.
+
+| Metric          | Details                                                                           |
+| --------------- | --------------------------------------------------------------------------------- |
+| **Stack**       | React, Vite, Node.js, Express, Socket.io, MongoDB, Mongoose                       |
+| **Scale**       | 300+ concurrent users tested                                                      |
+| **Performance** | Sub-200ms event response target after WebSocket optimization                      |
+| **Security**    | JWT, bcrypt-based authentication                                                  |
+| **Impact**      | Real-time messaging, presence, typing indicators, read receipts and media sharing |
+| **Repository**  | [View Repository](https://github.com/mukeshkr59)                                  |
+
+**Engineering Highlights**
+
+* Designed real-time communication using **Socket.io**
+* Implemented authentication and protected routes
+* Added online/offline presence tracking
+* Implemented typing indicators and read receipts
+* Added image/file sharing through Cloudinary
+* Optimized unnecessary frontend re-renders
+* Implemented CI/CD deployment workflow
+
+</details>
+
+<details>
+<summary><b>🍔 Food Delivery Platform — MERN Full Stack Application</b></summary>
+
+<br/>
+
+A full-stack food ordering platform focused on **modular REST APIs, authentication, cart management and order processing**.
+
+| Metric           | Details                                          |
+| ---------------- | ------------------------------------------------ |
+| **Stack**        | React, Node.js, Express, MongoDB                 |
+| **Architecture** | REST API + modular route architecture            |
+| **Core APIs**    | Food, User, Cart and Order services              |
+| **Database**     | MongoDB                                          |
+| **Security**     | Authentication and protected endpoints           |
+| **Repository**   | [View Repository](https://github.com/mukeshkr59) |
+
+**Engineering Highlights**
+
+* Designed modular Express route architecture
+* Implemented food catalogue and cart functionality
+* Implemented user and order workflows
+* Integrated MongoDB for persistent storage
+* Explored Redis caching for high-frequency operations
+* Designed the application with scalability in mind
+
+</details>
+
+<details>
+<summary><b>📝 Blogify — Backend-Oriented Blogging Platform</b></summary>
+
+<br/>
+
+A role-based blogging platform built with a focus on **authentication, MVC architecture, database optimization and secure APIs**.
+
+| Metric            | Details                                             |
+| ----------------- | --------------------------------------------------- |
+| **Stack**         | Node.js, Express, MongoDB Atlas, Mongoose, EJS      |
+| **Architecture**  | MVC                                                 |
+| **Performance**   | Query optimization through indexing and aggregation |
+| **Security**      | JWT cookies + bcrypt                                |
+| **Authorization** | USER / ADMIN roles                                  |
+| **Deployment**    | AWS Elastic Beanstalk                               |
+| **Repository**    | [View Repository](https://github.com/mukeshkr59)    |
+
+**Engineering Highlights**
+
+* Implemented MVC backend architecture
+* Built role-based authorization
+* Added JWT cookie authentication
+* Optimized database queries using indexing and aggregation
+* Built protected administrative workflows
+* Deployed backend infrastructure using AWS Elastic Beanstalk
+
+</details>
+
+<details>
+<summary><b>🔗 URL Shortener — Secure Redirect Service</b></summary>
+
+<br/>
+
+A lightweight URL-shortening service designed around **fast redirects, authentication and clean MVC architecture**.
+
+| Metric           | Details                                          |
+| ---------------- | ------------------------------------------------ |
+| **Stack**        | Node.js, Express, MongoDB                        |
+| **Architecture** | MVC                                              |
+| **Identifier**   | NanoID                                           |
+| **Performance**  | Optimized redirect workflow                      |
+| **Security**     | JWT-based authentication                         |
+| **Repository**   | [View Repository](https://github.com/mukeshkr59) |
+
+**Engineering Highlights**
+
+* Implemented short URL generation using NanoID
+* Built authenticated URL management
+* Designed RESTful backend routes
+* Used MVC separation for maintainability
+* Optimized redirect handling
+
+</details>
+
+---
+
+# Experience
+
+## Backend / Data Engineering — CryptoOwl
+
+**Crypto & Blockchain Analytics**
+
+Worked on backend and data engineering workflows for **Ethereum wallet analytics and transaction intelligence**.
+
+* Integrated blockchain APIs for wallet and token transaction data
+* Worked with **AWS Timestream, RDS and Redshift**
+* Built SQL and Python-based transaction/swap KPI workflows
+* Developed ETL pipelines using **Apache Airflow**
+* Automated data refresh workflows using AWS EC2
+* Worked with S3-based data exports and timestamps
+* Developed REST APIs using **API Gateway + AWS Lambda**
+* Performed graph analysis using **Neo4j**
+* Worked on wallet profiling, whale/shark network analysis and transaction monitoring
+* Supported analytics for portfolio and influential-wallet views
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redshift-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/RDS-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Gateway-6D28D9?style=flat-square"/>
+
+</div>
+
+---
+
+# Achievements
+
+<div align="center">
+
+|            Recognition           | Details                                             |
+| :------------------------------: | :-------------------------------------------------- |
+|    🥇 **Udghosh'21 Football**    | Men's Football Gold — IIT Kanpur                    |
+|    🏆 **Udghosh'22 Football**    | IIT Kanpur Football Captain                         |
+|   🏅 **Inter IIT Sports Meet**   | Contingent — 56th edition; 5th overall              |
+|        🥈 **Inferno 2023**       | Football Runner-up                                  |
+|        🥈 **Inferno 2023**       | High Jump 2nd Runner-up                             |
+|     🥇 **Hall-12 Volleyball**    | Gold Medal                                          |
+|       🏔️ **Kedar Kantha**       | High-altitude trek reaching approximately 12,500 ft |
+|          🎯 **Dakshana**         | Selected for Dakshana 2-year program                |
+| 🎓 **Foundation for Excellence** | Scholarship recipient                               |
+|     📚 **JEE Advanced 2020**     | AIR 10,171                                          |
+|       📚 **JEE Mains 2020**      | AIR 3,237                                           |
+
+</div>
+
+---
+
+# Certifications
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### Hewlett Packard Enterprise
+
+<a href="https://www.theforage.com/">
+<img src="https://img.shields.io/badge/HPE-Software%20Engineering%20Job%20Simulation-6D28D9?style=for-the-badge&logo=hp&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Forage**
+
+RESTful Web Services • Java • Spring Boot • REST APIs • Unit Testing
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coding-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-312E81?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mukeshkr59&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="170"/>
-<img src="https://streak-stats.demolab.com?username=mukeshkr59&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF" height="170"/>
+<a href="https://github.com/mukeshkr59">
+<img src="https://github-readme-stats.vercel.app/api?username=mukeshkr59&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="175"/>
+</a>
+
+<a href="https://github.com/mukeshkr59">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshkr59&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF" height="175"/>
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkr59&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" height="170"/>
+<a href="https://github.com/mukeshkr59">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkr59&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="175"/>
+</a>
 
 </div>
 
 ---
 
-## GitHub Trophies
+# GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mukeshkr59&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mukeshkr59&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=-C,-B"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshkr59&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshkr59&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="96%"/>
 
 </div>
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mukeshkr59/mukeshkr59/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## Current Focus
+# Current Focus
 
 ```yaml
 Learning:
-  - System Design
-  - Backend Architecture
+  - Advanced Node.js
+  - Backend System Design
   - Distributed Systems
-  - LLM Application Development
-  - Advanced DSA
+  - Database Optimization
+  - AI / LLM Engineering
+  - Vector Databases
 
 Building:
-  - AI-assisted GitHub Code Assistant
-  - Scalable MERN applications
-  - Production-ready backend APIs
+  - MERN Applications
+  - Backend APIs
+  - Real-Time Systems
+  - AI-assisted Developer Tools
 
 Exploring:
-  - Vector Search
-  - RAG architectures
-  - AI developer tooling
-  - Database optimization
-  - Cloud-native systems
+  - RAG Systems
+  - MongoDB Atlas Vector Search
+  - pgvector
+  - LLM APIs
+  - Cloud-Native Architecture
 
 Open To:
   - SDE-1
-  - Backend Engineering
-  - Full-Stack Development
-  - Node.js Engineering
-  - Software Engineering Opportunities
+  - Backend Engineer
+  - Node.js Developer
+  - Full Stack Developer
+  - Software Engineer
+  - AI / ML Engineering Roles
 ```
 
 ---
 
-## Connect
+# Connect
 
 <div align="center">
 
-<a href="mailto:mukeshk.iitk@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<table>
+<tr>
 
-<a href="https://www.linkedin.com/in/mukesh-kumar-vishwakarma/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<td align="center">
+<a href="mailto:mukeshkr59@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</td>
 
+<td align="center">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+
+<td align="center">
 <a href="https://github.com/mukeshkr59">
-<img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-mukeshkr59-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</td>
 
+<td align="center">
 <a href="https://github.com/mukeshkr59">
-<img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -375,8 +470,10 @@ Open To:
 
 <div align="center">
 
-**Engineering reliable systems, learning continuously, and turning ideas into production-ready software.**
+### *“Build systems that are simple to understand, reliable to operate, and scalable to grow.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:8B5CF6&height=120&section=footer"/>
 
 </div>
