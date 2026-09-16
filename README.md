@@ -14,24 +14,24 @@
 
 <br/><br/>
 
-<a href="https://github.com/mukesh-kumar-vishwakarma">
+<a href="https://github.com/mukeshkr59">
   <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mukesh-kumar-vishwakarma/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:mukeshkumarvishwakarma@gmail.com">
+<a href="mailto:mukeshkv.iitk@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/mukesh-kumar-vishwakarma">
+<a href="https://github.com/mukeshkr59">
   <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mukesh-kumar-vishwakarma&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/mukesh-kumar-vishwakarma?style=flat-square&color=4F46E5&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/mukesh-kumar-vishwakarma?style=flat-square&color=6D28D9&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=mukeshkr59&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/mukeshkr59?style=flat-square&color=4F46E5&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/mukeshkr59?style=flat-square&color=6D28D9&label=STARS"/>
 
 </div>
 
@@ -118,7 +118,7 @@ A full-stack real-time messaging application designed around responsive communic
 | **Performance** | Sub-200ms target for real-time message delivery; reduced unnecessary React re-renders |
 | **Security** | JWT authentication, password hashing with bcrypt, protected API routes |
 | **Impact** | Online/offline presence, typing indicators, read receipts, notifications, search and media/file sharing |
-| **Repository** | [GitHub](https://github.com/mukesh-kumar-vishwakarma) |
+| **Repository** | [GitHub](https://github.com/mukeshkr59) |
 
 **Engineering focus:** real-time event handling, authentication, API architecture, state management, media handling and production deployment.
 
@@ -154,7 +154,7 @@ A server-rendered blogging platform implementing authentication, authorization a
 | **Performance** | Database indexing and aggregation improvements targeting lower query latency |
 | **Security** | Cookie-based JWT authentication and bcrypt password hashing |
 | **Impact** | Role-based content management with protected administrative workflows |
-| **Repository** | [GitHub](https://github.com/mukesh-kumar-vishwakarma) |
+| **Repository** | [GitHub](https://github.com/mukeshkr59) |
 
 **Engineering focus:** MVC architecture, database optimization, authentication, authorization and AWS Elastic Beanstalk deployment.
 
@@ -172,7 +172,7 @@ A compact URL-shortening service focused on efficient redirects, authentication 
 | **Performance** | Optimized redirect path and database access |
 | **Security** | Authenticated user workflows and protected endpoints |
 | **Impact** | Short URL generation with efficient redirect handling |
-| **Repository** | [GitHub](https://github.com/mukesh-kumar-vishwakarma) |
+| **Repository** | [GitHub](https://github.com/mukeshkr59) |
 
 **Engineering focus:** identifier generation, API design, authentication and low-overhead redirect processing.
 
@@ -276,7 +276,7 @@ Worked on backend and data-analytics workflows for Ethereum wallet profiling, tr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mukesh-kumar-vishwakarma&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mukeshkr59&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="170"/>
 <img src="https://streak-stats.demolab.com?user=mukeshkr59&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF" height="170"/>
 
 <br/>
@@ -353,7 +353,7 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:mukeshkumarvishwakarma@gmail.com">
+<a href="mailto:mukeshk.iitk@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -361,11 +361,11 @@ Open To:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/mukesh-kumar-vishwakarma">
+<a href="https://github.com/mukeshkr59">
 <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/mukesh-kumar-vishwakarma">
+<a href="https://github.com/mukeshkr59">
 <img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
